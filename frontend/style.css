@@ -1,0 +1,27 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#heading {
+    margin-top: 35vh;
+    text-align: center;
+}
+
+.black-border {
+    border: solid 2px;
+    padding: 1em;
+    width: fit-content;
+}
+
+#wrapper {
+    display: block;
+    margin: auto;
+    margin-top: 5vh;
+}
+
+#button {
+    display: block;
+    margin: auto;
+    margin-top: 1em;
+}
+
